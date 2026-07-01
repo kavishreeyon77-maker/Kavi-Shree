@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Output {
     public static void main(String[] args) {
+    
         Scanner input = new Scanner(System.in);
         String name = input.next();
         int age = input.nextInt();
